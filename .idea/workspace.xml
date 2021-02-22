@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6778b21c-653a-4d26-862d-7f293e941114" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="empty" />
+        <option value="yazuoVue" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kfdf84VebqFwI1FEvxbCifBdlX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../sh/yuekehtml/css/bluestyle.css" />
+  </component>
+  <component name="RunManager">
+    <configuration name="lesson.vue" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/yk/src/page/lesson.vue" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.lesson.vue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6778b21c-653a-4d26-862d-7f293e941114" name="默认更改列表" comment="" />
+      <created>1606095681375</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606095681375</updated>
+      <workItem from="1606095690488" duration="18301000" />
+      <workItem from="1606184608161" duration="15135000" />
+      <workItem from="1606219407177" duration="2448000" />
+      <workItem from="1606307248844" duration="2316000" />
+      <workItem from="1606395206664" duration="3388000" />
+      <workItem from="1606536095084" duration="19314000" />
+      <workItem from="1606624166638" duration="18294000" />
+      <workItem from="1606738610675" duration="3233000" />
+      <workItem from="1606823396671" duration="3632000" />
+      <workItem from="1606890333256" duration="7871000" />
+      <workItem from="1606957484477" duration="14267000" />
+      <workItem from="1606992527594" duration="12598000" />
+      <workItem from="1607005889857" duration="1395000" />
+      <workItem from="1607053322871" duration="9690000" />
+      <workItem from="1607135599167" duration="3746000" />
+      <workItem from="1607143641806" duration="12701000" />
+      <workItem from="1607496289478" duration="9200000" />
+      <workItem from="1607513253010" duration="1903000" />
+      <workItem from="1607564545977" duration="11404000" />
+      <workItem from="1607585339776" duration="4597000" />
+      <workItem from="1607596448122" duration="12224000" />
+      <workItem from="1607648715412" duration="3407000" />
+      <workItem from="1607652950693" duration="705000" />
+      <workItem from="1607657575975" duration="290000" />
+      <workItem from="1607657953103" duration="5000" />
+      <workItem from="1607754852382" duration="13653000" />
+      <workItem from="1607859573563" duration="1898000" />
+      <workItem from="1607909777221" duration="20000" />
+      <workItem from="1607912038665" duration="14985000" />
+      <workItem from="1607936364700" duration="833000" />
+      <workItem from="1608119280975" duration="3860000" />
+      <workItem from="1608720922799" duration="1449000" />
+      <workItem from="1608725664953" duration="2733000" />
+      <workItem from="1609126132634" duration="6130000" />
+      <workItem from="1609204644957" duration="595000" />
+      <workItem from="1609226373549" duration="1822000" />
+      <workItem from="1609249871648" duration="1230000" />
+      <workItem from="1609291505085" duration="589000" />
+      <workItem from="1609381264730" duration="6054000" />
+      <workItem from="1609403417503" duration="583000" />
+      <workItem from="1609483033089" duration="8054000" />
+      <workItem from="1609594409996" duration="788000" />
+      <workItem from="1609642688900" duration="10935000" />
+      <workItem from="1609723728579" duration="36000" />
+      <workItem from="1609725547155" duration="8492000" />
+      <workItem from="1609761846719" duration="2391000" />
+      <workItem from="1609808888027" duration="1077000" />
+      <workItem from="1609828361031" duration="4576000" />
+      <workItem from="1609847706294" duration="1811000" />
+      <workItem from="1609917780380" duration="1257000" />
+      <workItem from="1609933376848" duration="4300000" />
+      <workItem from="1609983130858" duration="1108000" />
+      <workItem from="1610001650715" duration="3909000" />
+      <workItem from="1610020294425" duration="9151000" />
+      <workItem from="1610089417794" duration="3025000" />
+      <workItem from="1610109133566" duration="2246000" />
+      <workItem from="1610284094991" duration="1900000" />
+      <workItem from="1610593342454" duration="2540000" />
+      <workItem from="1610627369625" duration="2797000" />
+      <workItem from="1610698053076" duration="3134000" />
+      <workItem from="1610774061177" duration="9423000" />
+      <workItem from="1610969377111" duration="9012000" />
+      <workItem from="1611054831503" duration="1749000" />
+      <workItem from="1611104984216" duration="614000" />
+      <workItem from="1611127392335" duration="2742000" />
+      <workItem from="1611140285182" duration="3191000" />
+      <workItem from="1611212884410" duration="1413000" />
+      <workItem from="1611306812989" duration="621000" />
+      <workItem from="1611537012836" duration="4914000" />
+      <workItem from="1613630115130" duration="86000" />
+      <workItem from="1613723093725" duration="755000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1554" y="25" width="1182" height="544" key="DiffContextDialog" timestamp="1610974898699">
+      <screen x="-1920" y="-304" width="1920" height="1040" />
+    </state>
+    <state x="-1554" y="25" width="1182" height="544" key="DiffContextDialog/0.0.1366.728/-1920.-304.1920.1040@0.0.1366.728" timestamp="1610974898699" />
+    <state x="526" y="193" key="FileChooserDialogImpl" timestamp="1611106084573">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1180" y="127" key="FileChooserDialogImpl/0.0.1366.728/-1920.-148.1920.1040@-1920.-148.1920.1040" timestamp="1606185062586" />
+    <state x="526" y="193" key="FileChooserDialogImpl/0.0.1366.728/-1920.-304.1920.1040@0.0.1366.728" timestamp="1610969713348" />
+    <state x="-1181" y="-35" key="FileChooserDialogImpl/0.0.1366.728/-1920.-311.1920.1040@-1920.-311.1920.1040" timestamp="1611020307406" />
+    <state x="526" y="193" key="FileChooserDialogImpl/0.0.1366.728/-1920.-311.1920.1040@0.0.1366.728" timestamp="1611106084573" />
+    <state x="2106" y="-35" key="FileChooserDialogImpl/0.0.1366.728/1366.-310.1920.1040@1366.-310.1920.1040" timestamp="1607649620736" />
+    <state x="526" y="193" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1607510997559" />
+    <state x="2105" y="276" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1609765234299" />
+    <state x="526" y="193" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607860588999" />
+    <state x="1458" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1610020758493">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1828" y="-56" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728/-1920.-148.1920.1040@-1920.-148.1920.1040" timestamp="1606096921461" />
+    <state x="1458" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1610020758493" />
+    <state x="1457" y="91" width="1738" height="858" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1610020758494">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1828" y="-56" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728/-1920.-148.1920.1040@-1920.-148.1920.1040" timestamp="1606186778524" />
+    <state x="65" y="64" width="1236" height="600" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728/-1920.-311.1920.1040@0.0.1366.728" timestamp="1609985253083" />
+    <state x="1457" y="91" width="1738" height="858" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1610020758494" />
+    <state x="65" y="64" width="1236" height="600" maximized="true" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1608122563948">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1828" y="-56" width="1736" height="856" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1366.728/-1920.-148.1920.1040@-1920.-148.1920.1040" timestamp="1606108435068" />
+    <state x="65" y="64" width="1236" height="600" maximized="true" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1608122563948" />
+    <state x="-1771" y="-256" width="1158" height="736" key="dock-window-1" timestamp="1607603113036">
+      <screen x="-1920" y="-304" width="1920" height="1040" />
+    </state>
+    <state x="-1771" y="-256" width="1158" height="736" key="dock-window-1/0.0.1366.728/-1920.-304.1920.1040@0.0.1366.728" timestamp="1607603113036" />
+    <state x="1740" y="154" width="1503" height="873" key="find.popup" timestamp="1610028244930">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1270" y="104" width="620" height="536" key="find.popup/0.0.1366.728/-1920.-148.1920.1040@-1920.-148.1920.1040" timestamp="1606190270640" />
+    <state x="266" y="108" width="1069" height="611" key="find.popup/0.0.1366.728/-1920.-304.1920.1040@0.0.1366.728" timestamp="1608728452159" />
+    <state x="1918" y="-166" width="1053" height="687" key="find.popup/0.0.1366.728/1366.-310.1920.1040@1366.-310.1920.1040" timestamp="1607927194624" />
+    <state x="1740" y="154" width="1503" height="873" key="find.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1610028244930" />
+    <state x="1982" y="85" key="run.anything.popup" timestamp="1606975578318">
+      <screen x="1366" y="-310" width="1920" height="1040" />
+    </state>
+    <state x="1982" y="85" key="run.anything.popup/0.0.1366.728/1366.-310.1920.1040@1366.-310.1920.1040" timestamp="1606975578318" />
+    <state x="443" y="158" width="672" height="475" key="search.everywhere.popup" timestamp="1610091464121">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1297" y="-79" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1920.-304.1920.1040@-1920.-304.1920.1040" timestamp="1607759548582" />
+    <state x="443" y="158" width="672" height="475" key="search.everywhere.popup/0.0.1366.728/-1920.-311.1920.1040@0.0.1366.728" timestamp="1610091464121" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/page/index.vue</url>
+          <line>207</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/page/lesson.vue</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/page/index.vue</url>
+          <line>282</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/page/my.vue</url>
+          <line>159</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

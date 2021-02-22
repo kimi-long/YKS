@@ -1,0 +1,26 @@
+.el-message {
+    min-height: 5Vh !important;
+}
+.calendar_title{
+    display: flex !important;
+}
+.calendar_title_date{
+    flex: 1;
+    text-align: center;
+}
+.van-dialog{
+    min-height: auto !important;
+}
+.calendar_week .calendar_day{
+    width: 9.5VW !important;
+    height: 9.5VW !important;
+}
+.calendar_group{
+    top:10.7VW !important;
+}
+.calendar_body{
+    margin-top: 55px !important;
+}
+.lkKGrF section.user .text .name-wrapper{
+    justify-content: space-between;
+}
